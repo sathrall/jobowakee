@@ -1,0 +1,16 @@
+<resources>
+
+    <style name="JobowakeeMaterialTheme" parent="JobowakeeMaterialTheme.Base">
+        <!-- -->
+    </style>
+
+    <!-- Base application theme. -->
+    <style name="JobowakeeMaterialTheme.Base" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/dark_primary</item>
+        <item name="colorAccent">@color/accent</item>
+    </style>
+
+</resources>

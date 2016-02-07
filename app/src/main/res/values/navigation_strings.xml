@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- view title strings -->
+    <string name="title_home">Home</string>
+    <!--<string name="title_create_job">Create a Job Listing</string>-->
+    <string name="title_employer_profile_form">Employer Profile Form</string>
+    <string name="title_settings">Settings</string>
+
+    <!-- nav item strings -->
+    <string name="nav_item_home">Home</string>
+    <!--<string name="nav_item_create_job">Create a Job Listing</string>-->
+    <string name="nav_item_settings">Settings</string>
+    <string name="nav_item_map_demo">Map Demo</string>
+    <string name="nav_item_logout">Logout</string>
+
+    <!-- nav drawer strings -->
+    <string-array name="nav_drawer_labels">
+        <item>@string/nav_item_home</item>
+        <!--<item>@string/nav_item_create_job</item>-->
+        <item>@string/nav_item_settings</item>
+        <item>@string/nav_item_map_demo</item>
+        <item>@string/nav_item_logout</item>
+    </string-array>
+
+</resources>

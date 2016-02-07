@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/fexofenadine180mg/WebDev/school/SD2799/jobowakee/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="/Users/fexofenadine180mg/WebDev/school/SD2799/jobowakee/app/build/intermediates/pre-dexed/debug/classes-dbbc6191972a35df512bf50d6c5574df6031eea2.jar" />
+    </item>
+    <item
+        jar="/Users/fexofenadine180mg/WebDev/school/SD2799/jobowakee/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="/Users/fexofenadine180mg/WebDev/school/SD2799/jobowakee/app/build/intermediates/pre-dexed/debug/classes-17962cae5d66d59960d9855ebce87d352ce1bf23.jar" />
+    </item>
+    <item
+        jar="/Users/fexofenadine180mg/WebDev/school/SD2799/jobowakee/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="/Users/fexofenadine180mg/WebDev/school/SD2799/jobowakee/app/build/intermediates/pre-dexed/debug/classes-515ebf7379494f0d9203885b6d9c1934bfc93036.jar" />
+    </item>
+    <item
+        jar="/Users/fexofenadine180mg/WebDev/school/SD2799/jobowakee/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="/Users/fexofenadine180mg/WebDev/school/SD2799/jobowakee/app/build/intermediates/pre-dexed/debug/classes-04ebdf4809658ea6063bd6b3b7c143f26a1bb3aa.jar" />
+    </item>
+    <item
+        jar="/Users/fexofenadine180mg/WebDev/school/SD2799/jobowakee/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/fexofenadine180mg/WebDev/school/SD2799/jobowakee/app/build/intermediates/pre-dexed/debug/classes-81922a1e54d1b15f9c0bf620170b0cb2bd835827.jar" />
+    </item>
+    <item
+        jar="/Users/fexofenadine180mg/WebDev/school/SD2799/jobowakee/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="/Users/fexofenadine180mg/WebDev/school/SD2799/jobowakee/app/build/intermediates/pre-dexed/debug/classes-ac7d5a5854547d7fc16348aeb5c03626b9966840.jar" />
+    </item>
+    <item
+        jar="/Users/fexofenadine180mg/android-sdks/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/Users/fexofenadine180mg/WebDev/school/SD2799/jobowakee/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-45223c4799725d63ceebad72954e87b376c93fc5.jar" />
+    </item>
+    <item
+        jar="/Users/fexofenadine180mg/WebDev/school/SD2799/jobowakee/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/fexofenadine180mg/WebDev/school/SD2799/jobowakee/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-b93c6ab079436e88d9cb27b83f7781e16851072f.jar" />
+    </item>
+    <item
+        jar="/Users/fexofenadine180mg/WebDev/school/SD2799/jobowakee/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="/Users/fexofenadine180mg/WebDev/school/SD2799/jobowakee/app/build/intermediates/pre-dexed/debug/classes-2832a42825851ff431bf0b5c0ca545aa658584e9.jar" />
+    </item>
+    <item
+        jar="/Users/fexofenadine180mg/WebDev/school/SD2799/jobowakee/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="/Users/fexofenadine180mg/WebDev/school/SD2799/jobowakee/app/build/intermediates/pre-dexed/debug/classes-3e6b58fa97460d7014d5787df586cfc3a3227d25.jar" />
+    </item>
+    <item
+        jar="/Users/fexofenadine180mg/WebDev/school/SD2799/jobowakee/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3abb4b88f5a8a0584a9b01d3170d7165f12f8588">
+        <dex dex="/Users/fexofenadine180mg/WebDev/school/SD2799/jobowakee/app/build/intermediates/pre-dexed/debug/classes-5b1c5ed4ba2a6090472bc79499099eaea13de721.jar" />
+    </item>
+    <item
+        jar="/Users/fexofenadine180mg/WebDev/school/SD2799/jobowakee/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="/Users/fexofenadine180mg/WebDev/school/SD2799/jobowakee/app/build/intermediates/pre-dexed/debug/classes-6e2c74bf271b3bf3f22914f2b52ae11fd53dc168.jar" />
+    </item>
+    <item
+        jar="/Users/fexofenadine180mg/WebDev/school/SD2799/jobowakee/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="/Users/fexofenadine180mg/WebDev/school/SD2799/jobowakee/app/build/intermediates/pre-dexed/debug/classes-cb7ecac82198a9fe14a22664dbe0f09aa3a05e3c.jar" />
+    </item>
+    <item
+        jar="/Users/fexofenadine180mg/WebDev/school/SD2799/jobowakee/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="/Users/fexofenadine180mg/WebDev/school/SD2799/jobowakee/app/build/intermediates/pre-dexed/debug/classes-604bfad6a36b3d2f0aa97813f1865f1b3124c5ed.jar" />
+    </item>
+    <item
+        jar="/Users/fexofenadine180mg/WebDev/school/SD2799/jobowakee/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="/Users/fexofenadine180mg/WebDev/school/SD2799/jobowakee/app/build/intermediates/pre-dexed/debug/classes-39de32e0c5885a880df3cbeaa810e50e8dae3261.jar" />
+    </item>
+    <item
+        jar="/Users/fexofenadine180mg/WebDev/school/SD2799/jobowakee/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="/Users/fexofenadine180mg/WebDev/school/SD2799/jobowakee/app/build/intermediates/pre-dexed/debug/classes-b665a0f880ba937b95189537e84a46a2a289b857.jar" />
+    </item>
+    <item
+        jar="/Users/fexofenadine180mg/WebDev/school/SD2799/jobowakee/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="/Users/fexofenadine180mg/WebDev/school/SD2799/jobowakee/app/build/intermediates/pre-dexed/debug/classes-4055a3b8b586ae046bf1443b8056745fe266c768.jar" />
+    </item>
+    <item
+        jar="/Users/fexofenadine180mg/WebDev/school/SD2799/jobowakee/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/fexofenadine180mg/WebDev/school/SD2799/jobowakee/app/build/intermediates/pre-dexed/debug/classes-c565e194aa1e32086ed1bf1608feadce8070b069.jar" />
+    </item>
+    <item
+        jar="/Users/fexofenadine180mg/WebDev/school/SD2799/jobowakee/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="/Users/fexofenadine180mg/WebDev/school/SD2799/jobowakee/app/build/intermediates/pre-dexed/debug/classes-2b69499cab89f94f1480e10e4836a14015b60fa8.jar" />
+    </item>
+    <item
+        jar="/Users/fexofenadine180mg/WebDev/school/SD2799/jobowakee/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="/Users/fexofenadine180mg/WebDev/school/SD2799/jobowakee/app/build/intermediates/pre-dexed/debug/classes-4dfa1a792425917eb0755be7591b3c667c1c1071.jar" />
+    </item>
+    <item
+        jar="/Users/fexofenadine180mg/WebDev/school/SD2799/jobowakee/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="/Users/fexofenadine180mg/WebDev/school/SD2799/jobowakee/app/build/intermediates/pre-dexed/debug/classes-11e5ee83cd95107b10ff9bdbb6353ad55da37b12.jar" />
+    </item>
+    <item
+        jar="/Users/fexofenadine180mg/WebDev/school/SD2799/jobowakee/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="/Users/fexofenadine180mg/WebDev/school/SD2799/jobowakee/app/build/intermediates/pre-dexed/debug/classes-a17d85aa4c8d658e1652de3b362055c02381359e.jar" />
+    </item>
+    <item
+        jar="/Users/fexofenadine180mg/WebDev/school/SD2799/jobowakee/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="/Users/fexofenadine180mg/WebDev/school/SD2799/jobowakee/app/build/intermediates/pre-dexed/debug/classes-6f4274ad45338015bdbbfc96950762878bfce23a.jar" />
+    </item>
+    <item
+        jar="/Users/fexofenadine180mg/WebDev/school/SD2799/jobowakee/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="/Users/fexofenadine180mg/WebDev/school/SD2799/jobowakee/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-1824c7bf62876ad769585ffa9fbb48517bea51ec.jar" />
+    </item>
+    <item
+        jar="/Users/fexofenadine180mg/WebDev/school/SD2799/jobowakee/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="/Users/fexofenadine180mg/WebDev/school/SD2799/jobowakee/app/build/intermediates/pre-dexed/debug/classes-1f3e677ad0aceb7f309847aa618a8891317e9932.jar" />
+    </item>
+    <item
+        jar="/Users/fexofenadine180mg/WebDev/school/SD2799/jobowakee/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="/Users/fexofenadine180mg/WebDev/school/SD2799/jobowakee/app/build/intermediates/pre-dexed/debug/classes-aa7eacd6319fe5d02022b82740aff894aa4efa12.jar" />
+    </item>
+    <item
+        jar="/Users/fexofenadine180mg/WebDev/school/SD2799/jobowakee/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="/Users/fexofenadine180mg/WebDev/school/SD2799/jobowakee/app/build/intermediates/pre-dexed/debug/classes-5c00142faf196154a165bf280b691315911f233b.jar" />
+    </item>
+
+</items>

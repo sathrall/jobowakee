@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- base colors -->
+    <color name="dark_primary">#616161</color>
+    <color name="primary">#9E9E9E</color>
+    <color name="light_primary">#F5F5F5</color>
+    <color name="accent">#03A9F4</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#727272</color>
+    <color name="divider">#B6B6B6</color>
+
+    <!-- base shades -->
+    <color name="dark">#000000</color>
+    <color name="light">#FFFFFF</color>
+    <color name="muted">#4D4D4D</color>
+
+    <!-- extended variables -->
+    <color name="windowBackground">@color/light_primary</color>
+    <color name="textColorPrimary">@color/primary_text</color>
+    <color name="navigationBarColor">@color/accent</color>
+
+</resources>

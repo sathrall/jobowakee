@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="21dp"
+        android:layout_centerInParent="true">
+
+        <TextView
+            android:id="@+id/welcome"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginBottom="@dimen/length_medium"
+            android:textSize="@dimen/font_large"
+            android:text="@string/employer_form_title"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginBottom="@dimen/length_tiny"
+            android:paddingTop="@dimen/length_tiny"
+            android:paddingRight="@dimen/length_small"
+            android:paddingBottom="@dimen/length_tiny"
+            android:paddingLeft="@dimen/length_small"
+            android:background="@color/dark_primary"
+            android:textColor="@color/light"
+            android:textSize="@dimen/font_body"
+            android:text="@string/employer_form_personal_info"/>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginBottom="@dimen/length_medium">
+
+            <EditText
+                android:id="@+id/personal_email"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:hint="@string/employer_email_hint"/>
+
+            <EditText
+                android:id="@+id/personal_first_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:hint="@string/employer_first_name_hint"/>
+
+            <EditText
+                android:id="@+id/personal_last_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:hint="@string/employer_last_name_hint"/>
+
+        </LinearLayout>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginBottom="@dimen/length_tiny"
+            android:paddingTop="@dimen/length_tiny"
+            android:paddingRight="@dimen/length_small"
+            android:paddingBottom="@dimen/length_tiny"
+            android:paddingLeft="@dimen/length_small"
+            android:background="@color/dark_primary"
+            android:textColor="@color/light"
+            android:textSize="@dimen/font_body"
+            android:text="@string/employer_form_company_info"/>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginBottom="@dimen/length_medium">
+            <EditText
+                android:id="@+id/company_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:hint="@string/employer_company_name_hint"/>
+
+            <EditText
+                android:id="@+id/company_address"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:hint="@string/employer_company_address_hint"/>
+
+            <EditText
+                android:id="@+id/company_phone"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:hint="@string/employer_company_phone_hint"/>
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/submit"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="@string/submit_button"
+            android:textColor="@color/light"
+            android:background="@color/accent"/>
+
+    </LinearLayout>
+
+</RelativeLayout>

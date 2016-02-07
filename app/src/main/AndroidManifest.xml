@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.sd2799.jobowakee" >
+
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name"
+        android:theme="@style/JobowakeeMaterialTheme" >
+        <meta-data android:name="com.google.android.geo.API_KEY" android:value="AIzaSyBGrZVC2sl9fFblaKWzBk7jArTiKgrGUa8" />
+        <activity
+            android:name=".LoginActivity"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".RegisterFormActivity"></activity>
+        <activity android:name=".EmployerProfileActivity"></activity>
+        <activity android:name=".MapsActivity"></activity>
+        <activity android:name=".MainActivity"></activity>
+    </application>
+
+</manifest>

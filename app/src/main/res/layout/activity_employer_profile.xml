@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<android.support.v4.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/drawer_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".EmployerProfileActivity">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <include
+            android:id="@+id/toolbar"
+            layout="@layout/toolbar" />
+
+        <FrameLayout
+            android:id="@+id/container_body"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1" />
+
+    </LinearLayout>
+
+    <fragment
+        android:id="@+id/fragment_nav_drawer"
+        android:name="com.sd2799.jobowakee.DrawerFragment"
+        android:layout_height="match_parent"
+        android:layout_width="@dimen/nav_drawer_width"
+        android:layout_gravity="start"
+        app:layout="@layout/fragment_nav_drawer"
+        tools:layout="@layout/fragment_nav_drawer" />
+
+</android.support.v4.widget.DrawerLayout>
